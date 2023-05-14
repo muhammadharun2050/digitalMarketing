@@ -1,0 +1,24 @@
+#gooogle basic info
+    $ currency ar time zone akbar select korele, ar change kora jay na .
+    $ jar card use kobo, sei desher location thake credit card er details add korte hobe. ar nahole accout ban kore debe. ar sei dather location select kore dete.
+    $ মূল credit কার্ডের কম্পানি amerrican express.
+    $ যদি credit card -: visa ar marican express use kori, tahole auto payment mathod use korbo/
+    $ যদি debit card -: visa ,master card use kori ,tahole amra manual  payment mathod use korbo/
+
+#google ads rank info :
+    $ads rank = max cpc (bid amount) X  ads qurality score (1-10) // দুইটা গুন করলে যেটা হয়
+#ads actual costs = ads rank / ads qurality score + .01  // ভাগ করে 0.1 যোগ করলে যা হয়।
+# ctr = click/impressiom X 100%
+----
+# amra jokhan akta campaim chalabo, tokhon  tar name , date, month, eigulo debo
+----
+
+# আমরা যখন ক্লান্ট থেকে কাজ নিব, তখন এই জিনিস গুলো ক্লান্ট থেকে চেয়ে নিতে হবে।
+    1. landing page url
+    2. mother keywords 2-2 Ta ( যেটা ল্যান্ডিং পেজে থাকতে হবে)
+    3. google account ads accessible
+    4.GTA access
+    5. G4A access 
+    5. location
+# keyword planner :
+    এইখানে আমাদের কীওয়ার্ডগুলো দিতে হবে। সাথে website দিতে হবে। website এর ক্ষেত্রে আমি আমার নিজের website অথবা আমার competitor এর website দিতে পারি। competitpr এর website দিলে আমি তার টার্গেটিং keyword গুলো জানতে পারবো।
