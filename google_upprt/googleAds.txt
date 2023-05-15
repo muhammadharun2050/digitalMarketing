@@ -8,8 +8,10 @@
 #google ads rank info :
     $ads rank = max cpc (bid amount) X  ads qurality score (1-10) // দুইটা গুন করলে যেটা হয়
 #ads actual costs = ads rank / ads qurality score + .01  // ভাগ করে 0.1 যোগ করলে যা হয়।
-# ctr = click/impressiom X 100%
-----
+# ctr = click/impressiom X 100
+# convertion rate= click X conversion rate /100  ( যেই ফলাফল হবে, কয়টা সেল হয়েছে)
+#CPA = budget / covertion rate = (একটা সেল করতে কত খরচ)
+--
 # amra jokhan akta campaim chalabo, tokhon  tar name , date, month, eigulo debo
 ----
 
