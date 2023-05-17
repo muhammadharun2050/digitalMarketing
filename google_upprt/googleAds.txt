@@ -24,3 +24,8 @@
     5. location
 # keyword planner :
     এইখানে আমাদের কীওয়ার্ডগুলো দিতে হবে। সাথে website দিতে হবে। website এর ক্ষেত্রে আমি আমার নিজের website অথবা আমার competitor এর website দিতে পারি। competitpr এর website দিলে আমি তার টার্গেটিং keyword গুলো জানতে পারবো।
+#   CPM = cost per thousand impressin
+    vCPM = viewable cost per thousand impressin
+    ROAS = return on add spend = revinew / ad spend = 
+    CPV = cost per view 
+# target CPA = টার্গেট CPA এর ক্ষেতে লাস্ট ২৮-৩০ দিনে ১৫ থেকে ৫০টা ইউনিক  conversion হতে হবে।
