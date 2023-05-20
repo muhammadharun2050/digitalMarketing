@@ -29,3 +29,5 @@
     ROAS = return on add spend = revinew / ad spend = 
     CPV = cost per view 
 # target CPA = টার্গেট CPA এর ক্ষেতে লাস্ট ২৮-৩০ দিনে ১৫ থেকে ৫০টা ইউনিক  conversion হতে হবে।
+
+# copy writting এর ক্ষেত্রে আমাদের (১৫টি ) টি হেডলাইন লিখতে হবে যার প্রতি হেডলাইন হবে ৩০ ওয়ার্ডের ভিতর। ৪টি description লিখতে হবে, যার যেগুলো লিখতে ৯০ ওয়ার্ডের ভিতর।।
