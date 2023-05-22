@@ -31,3 +31,8 @@
 # target CPA = টার্গেট CPA এর ক্ষেতে লাস্ট ২৮-৩০ দিনে ১৫ থেকে ৫০টা ইউনিক  conversion হতে হবে।
 
 # copy writting এর ক্ষেত্রে আমাদের (১৫টি ) টি হেডলাইন লিখতে হবে যার প্রতি হেডলাইন হবে ৩০ ওয়ার্ডের ভিতর। ৪টি description লিখতে হবে, যার যেগুলো লিখতে ৯০ ওয়ার্ডের ভিতর।।
+
+# google tag manager intrigarate  google ads
+    1. create tag manager account and paste this code follwoing rule
+    2. google ads conversasion info add on goolge tag manager
+    3. GTM4WP  plugin er ingration thake google GA4 option on kore dete hobe.
