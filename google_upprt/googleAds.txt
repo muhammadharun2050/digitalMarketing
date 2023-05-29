@@ -36,4 +36,4 @@
     1. create tag manager account and paste this code follwoing rule
     2. google ads conversasion info add on goolge tag manager
     3. GTM4WP  plugin er ingration thake google GA4 option on kore dete hobe.
-# keyword নেগেটিভ কি-ওয়ার্ডের এড করারা সময় অবশ্যই exact keyword এড করতে হবে। আর exact keyword এই চিহ্ন দ্বারা এড করে []
+# keyword নেগেটিভ কি-ওয়ার্ডের এড করারা সময় অবশ্যই exact keyword এড করতে হবে। আর exact keyword এই চিহ্ন দ্বারা এড করে [].
