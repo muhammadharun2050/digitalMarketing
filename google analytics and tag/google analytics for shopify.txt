@@ -18,3 +18,5 @@ all analytics uppper document
 
 4. google ads
 #https://drive.google.com/drive/folders/1ZZNIQJv3ujDkgNrh2-02GUGmfHILyefC
+
+#https://business.facebook.com/settings/pixels/
