@@ -7,7 +7,7 @@
 
 #google ads rank info :
     $ads rank = max cpc (bid amount) X  ads qurality score (1-10) // দুইটা গুন করলে যেটা হয়
-#ads actual costs = ads rank / ads qurality score + .01  // ভাগ করে 0.1 যোগ করলে যা হয়।
+#ads actual costs = my next ads rank / my ads qurality score + .01  // ভাগ করে 0.1 যোগ করলে যা হয়।
 # ctr = click/impressiom X 100
 # convertion rate= click X conversion rate /100  ( যেই ফলাফল হবে, কয়টা সেল হয়েছে)
 #CPA = budget / covertion rate = (একটা সেল করতে কত খরচ)
@@ -19,7 +19,7 @@
     1. landing page url
     2. mother keywords 2-2 Ta ( যেটা ল্যান্ডিং পেজে থাকতে হবে)
     3. google account ads accessible
-    4.GTA access
+    4.GTM access
     5. G4A access 
     5. location
 # keyword planner :
